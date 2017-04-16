@@ -1,5 +1,5 @@
 n = int(input("gimme a number "))
-
+print(n)
 while n != 1:
     if float(n/2).is_integer():
         n = n/2
